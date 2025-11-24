@@ -1,13 +1,11 @@
-Employee Management System
+#Employee Management System
 
 A simple and responsive Employee Management System built using React.js, Tailwind CSS, and JavaScript.
 This project allows users to Add, Edit, Delete, and View employee records with a clean UI and smooth workflow.
 
 🌐 Live Demo
 
-👉 Live Link: https://your-live-demo-link.com
-
-(yaha apna actual deployed link daal dena — Netlify/Vercel)
+👉 Live Link: https://employee-management-system-dusky-theta.vercel.app/
 
 🚀 Features
 
